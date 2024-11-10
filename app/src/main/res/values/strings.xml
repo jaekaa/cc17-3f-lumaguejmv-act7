@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">final2 my city app</string>
+    <string name="baguio_city_guide">Baguio City Guide</string>
+    <string name="baguio_on_the_philippines_is_a_mountain_town_of_universities_and_resorts_called_the_city_of_pines_it_s_particularly_popular_in_summer_due_to_unusually_cooler_weather_at_its_center_is_burnham_park_with_gardens_and_a_lake_nearby_baguio_cathedral_completed_in_1936_has_a_rose_hued_exterior_the_main_thoroughfare_is_session_road_lined_with_shops_restaurants_and_entertainment_options">Baguio, on the Philippines’, is a mountain town of universities and resorts. Called the “City of Pines,” it’s particularly popular in summer due to unusually cooler weather. At its center is Burnham Park, with gardens and a lake. Nearby, Baguio Cathedral, completed in 1936, has a rose-hued exterior. The main thoroughfare is Session Road, lined with shops, restaurants and entertainment options.</string>
+    <string name="explore">Explore</string>
+    <string name="todo">TODO</string>
+    <string name="baguio_city">Baguio City Guide</string>
+</resources>

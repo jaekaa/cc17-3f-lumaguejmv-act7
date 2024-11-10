@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/categoryFragment">
+
+    <!-- Category Fragment Destination -->
+    <fragment
+        android:id="@+id/categoryFragment"
+        android:name="com.example.final2mycityapp.fragments.CategoryFragment"
+        android:label="Category"
+        tools:layout="@layout/fragment_category" />
+
+</navigation>
